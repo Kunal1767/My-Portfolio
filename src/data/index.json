@@ -1,0 +1,52 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/react.png" ,
+      "title": "React JS",
+      "description": "I use React.js to develop dynamic single-page applications with reusable components, state management, and routing. I enjoy crafting clean UI with performance in mind"
+    },
+    {
+      "id": "2",
+      "src": "./img/java.png",
+      "title": "Java",
+      "description": "Java is my core programming language. I use it to build backend logic, understand object-oriented programming concepts, and solve complex problems."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-1.png",
+      "title": "frontend",
+      "description": "I specialize in building responsive and user-friendly web interfaces using modern technologies. I have experience with HTML, CSS, JavaScript, and React.js to create smooth, interactive websites"
+    },
+    {
+      "id": "4",
+      "src": "./img/DSA.png",
+      "title": "Data Structure",
+      "description": "I have a solid understanding of data structures and algorithms, which helps me write efficient and optimized code. I regularly practice problem-solving to enhance my logical thinking and coding skills."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/weather.png",
+      "title": "Weather Forecasting App",
+      "description": "A responsive React JS app that shows real-time weather updates for any city using the OpenWeather API, including temperature, humidity, wind speed, and conditions.",
+      "link": "https://weatherforcastcom.netlify.app/"
+    },
+    {
+      "id": "2",
+      "src": "./img/Screenshot 2025-06-17 221057.png",
+      "title": "Car Rental System",
+      "description": "A java based car rental system that allows users to book cars, manage rentals, and view available vehicles. this project demonstrates my skills in Java programming and object-oriented design.",
+      "link": "https://github.com/Kunal1767/Car-Rental-System"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "MY Portfolio",
+      "description": "This portfolio showcases my skills, projects, and experiences. It is built using React.js and includes sections for my work, skills, and contact information.",
+      "link": "View In Github"
+    }
+  ]
+  
+}
