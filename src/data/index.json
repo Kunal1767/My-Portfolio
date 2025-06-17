@@ -42,10 +42,10 @@
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
+      "src": "./img/Screenshot 2025-06-17 222651.png",
       "title": "MY Portfolio",
       "description": "This portfolio showcases my skills, projects, and experiences. It is built using React.js and includes sections for my work, skills, and contact information.",
-      "link": "View In Github"
+      "link": "https://github.com/Kunal1767/My-Portfolio"
     }
   ]
   
