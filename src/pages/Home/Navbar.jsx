@@ -30,8 +30,9 @@ function Navbar() {
 
   const navLinks = [
     { id: "heroSection", text: "Home" },
-    { id: "MyPortfolio", text: "Projects" },
-    { id: "AboutMe", text: "About Me" }
+    
+    { id: "AboutMe", text: "About Me" },
+    { id: "MyPortfolio", text: "Projects" }
   ];
 
   return (
