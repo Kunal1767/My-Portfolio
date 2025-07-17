@@ -146,6 +146,7 @@ h3 {
     align-items: center;
     justify-content: space-between;
     gap: 32px;
+    margin: 100px 0 0;
     background-color: var(--bg-shade);
 }
 .hero--section--content-box {
@@ -158,6 +159,7 @@ h3 {
 .hero--section--content {
     display: flex;
     flex-direction: column;
+    margin: -250px 0 0;
     align-items: flex-start;
     gap: 21.333px;
 }
@@ -190,13 +192,14 @@ h3 {
     justify-content: center;
     align-items: center;
     padding: 2rem;
+    /* margin: -50px 0 0; */
 }
 
 .hero--section--img>img {
-    width: 70%;
+    width: 65%;
     height: auto;
     margin-left: 100px;
-    margin-top: -50px;
+    margin-top: -200px;
     object-fit: cover;
 }
 
@@ -340,10 +343,11 @@ h3 {
 }
 
 .about--section--img>img {
-    width: 100%;
+    width: 90%;
     height: auto;
     border-radius: 20px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    margin-top: -200px;
 }
 .portfolio--section {
     display: flex;

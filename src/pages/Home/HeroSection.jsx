@@ -18,7 +18,7 @@ export default function HeroSection() {
               </div>
               <br />
               <br/>
-        <a href="./img/resume.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="./img/Kunal_Varshney_Resume (2).pdf" target="_blank" rel="noopener noreferrer">
           <button className="btn btn-primary">Resume</button>
         </a>
       </div>
